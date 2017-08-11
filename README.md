@@ -1,2 +1,3 @@
 # sleazylist
-Domains that Easylist can't include
+
+This is a list of my favorite domains with no express purpose
